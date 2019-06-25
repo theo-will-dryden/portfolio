@@ -1,7 +1,7 @@
 # Site settings
-title: Chris Dryden
-description: Chris Dryden - Digital Portfolio 
+title: Theo Will Dryden
+description: Theo Will Dryden - Digital Portfolio 
 keywords: digital, portfolio, resume 
-author: Chris Dryden 
+author: Theo Will Dryden
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "chrisdryden.com" # the base hostname & protocol for your site
+url: "theowilldryden.com" # the base hostname & protocol for your site
